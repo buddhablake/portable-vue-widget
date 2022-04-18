@@ -757,4 +757,4 @@ var component = normalizeComponent(
 module.exports = __webpack_exports__["default"];
 /******/ })()
 ;
-//# sourceMappingURL=vue_widget.common.js.map
+//# sourceMappingURL=VueWidget.common.js.map

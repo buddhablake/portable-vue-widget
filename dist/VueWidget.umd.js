@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["vue_widget"] = factory();
+		exports["VueWidget"] = factory();
 	else
-		root["vue_widget"] = factory();
+		root["VueWidget"] = factory();
 })((typeof self !== 'undefined' ? self : this), function() {
 return /******/ (function() { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
@@ -769,4 +769,4 @@ __webpack_exports__ = __webpack_exports__["default"];
 /******/ })()
 ;
 });
-//# sourceMappingURL=vue_widget.umd.js.map
+//# sourceMappingURL=VueWidget.umd.js.map
